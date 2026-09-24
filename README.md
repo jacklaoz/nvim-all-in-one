@@ -1,4 +1,4 @@
-# nvim-setup
+# nvim-all-in-one
 
 一键安装 Neovim + [LazyVim](https://www.lazyvim.org/) 常用开发环境，并在无界面（headless）Neovim 中自动验证是否生效。
 
